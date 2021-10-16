@@ -1,0 +1,5 @@
+
+.DS_Store
+.ipynb_checkpoints/daps-lab1-data-acquisition-checkpoint.ipynb
+weather-data/weather-denmark.csv
+weather-data/weather-denmark.pkl
