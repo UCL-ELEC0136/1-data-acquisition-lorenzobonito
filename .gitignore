@@ -1,3 +1,9 @@
 
 weather-data/weather-denmark.csv
 weather-data/weather-denmark.pkl
+.DS_Store
+*.csv
+weather-data/README.md
+weather-data/weather-denmark.tar.gz
+*.cvs
+tate_dataset.pkl
