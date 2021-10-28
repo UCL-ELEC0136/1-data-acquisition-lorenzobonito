@@ -1,2 +1,7 @@
 
 .DS_Store
+*.csv
+*.pkl
+REC_2015.cvs
+weather-data/README.md
+weather-data/weather-denmark.tar.gz
